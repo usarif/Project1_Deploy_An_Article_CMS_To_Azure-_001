@@ -3,3 +3,12 @@ changes made to requirements.txt
 	removed version from cryptography
 	pip installed wheel package
 	remove pip from requirements.txt
+
+Aside from the above follow the typical steps:
+1. setup venv
+2. install requirements on the venv
+3. setup Azure resources
+4. include the appropriate code in the flask appropriate
+5. deploy to web app
+
+resources: https://flask.palletsprojects.com/en/2.2.x/logging/
